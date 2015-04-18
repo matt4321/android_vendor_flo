@@ -14,6 +14,6 @@
 
 LOCAL_STEM := flo/BoardConfigPartial.mk
 
--include vendor/asus/$(LOCAL_STEM)
--include vendor/broadcom/$(LOCAL_STEM)
--include vendor/qcom/$(LOCAL_STEM)
+-include vendor/asus/flo/asus/$(LOCAL_STEM)
+-include vendor/asus/flo/broadcom/$(LOCAL_STEM)
+-include vendor/asus/flo/qcom/$(LOCAL_STEM)
